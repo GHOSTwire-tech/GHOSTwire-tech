@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.ghostwirebot.tech/banner.png" width="200" alt="GHOSTWIRE">
+  <img src="https://www.ghostwirebot.tech/banner.png" width="100%" alt="GHOSTWIRE Banner">
 </p>
 
 <h1 align="center">⚡ GHOSTWIRE</h1>
